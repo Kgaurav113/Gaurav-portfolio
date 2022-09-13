@@ -35,7 +35,7 @@ const Banner = () => {
             <div className="typeButtons">
               <button className="learn-more">
                 <a
-                  href= "../assets/resume/gauravresume.pdf"
+                  href= "gauravresume.pdf"
                    download
                   target={"_blank"}
                   rel="noreferrer"
