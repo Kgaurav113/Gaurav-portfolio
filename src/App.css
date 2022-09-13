@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  /* color: #ffffff; */
+}
+body {
+  background-color: #f3f4f6;
+}
+.subTitle {
+  /* border: 1px solid white; */
+  /* padding: 4px 15px; */
+  border-bottom: 3px solid #e11d48;
+  color: #ffffff;
+  font-size: 25px;
+  width: auto;
+  /* border: 1px solid white; */
+  font-weight: 600;
+}
