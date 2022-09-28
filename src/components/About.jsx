@@ -15,10 +15,16 @@ const About = () => {
         <div className="aboutDesc">
           <Fade direction="left">
             <p className="subTitle">About me</p>
-        
+
             <p className="desc">
-            I have completed my Graduation in instrumentation Engineering. In my college, I learned some coding languages like C, C++, DBMS, and Oracle. So I decided to build my career as a developer. Then I joined Masai School to pursue my career in coding and In Masai we had intense 
-9 to 9 curriculum every day. It helps me to do coding like marathon and I learned so many things in Masai like interpersonal skills, leadership skills, remote working, team collaboration etc.
+              I have completed my Graduation in instrumentation Engineering. In
+              my college, I learned some coding languages like C, C++, DBMS, and
+              Oracle. So I decided to build my career as a developer. Then I
+              joined Masai School to pursue my career in coding and In Masai we
+              had intense 9 to 9 curriculum every day. It helps me to do coding
+              like marathon and I learned so many things in Masai like DSA, frontend  and backend development,
+              interpersonal skills, leadership skills, remote working, team
+              collaboration etc.
             </p>
           </Fade>
         </div>

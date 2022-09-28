@@ -47,6 +47,7 @@ export const SkillsDiv = styled.div`
             width: 350px;
             padding: 20px;
             gap: 30px;
+            
             display: flex;
             align-items: center;
             flex-direction: column;
@@ -56,6 +57,7 @@ export const SkillsDiv = styled.div`
               justify-content: left;
               /* border: 1px solid black; */
               width: 100%;
+             
 
               height: 50px;
               align-items: center;
