@@ -1,6 +1,7 @@
 .statisticmain{
 background-color: rgb(12, 17, 26);
 color: white;
+height: 400px;
 }
 .stat
   {
@@ -9,6 +10,7 @@ color: white;
     justify-content: space-between;
     /* margin-bottom: 20px; */
     margin-left: 12%;
+    margin-top: 8%;
   }
   .individualStat {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -32,7 +34,7 @@ color: white;
     height: 130px;
     width: 130px;
     border: 10px solid rgba(66, 153, 225, 0.6);
-    border-radius: 65px;
+    border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;

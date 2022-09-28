@@ -3,7 +3,7 @@ import './Statistics.css'
 const Statistics = () => {
   return (
     <div className='statisticmain'>
-     <h1 style={{textAlign:'center',fontSize:'40px',fontWeight:'500',marginLeft:'7%',marginBottom:'40px'}}> Statistics </h1>
+     <h1 style={{textAlign:'center',fontSize:'40px',fontWeight:'500',marginLeft:'7%',marginBottom:'40px',paddingTop:"30px"}}> Statistics </h1>
     <div className="stat">
             <div className="individualStat">
                        <div>1200+</div>
