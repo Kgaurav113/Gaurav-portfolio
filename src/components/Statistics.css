@@ -21,7 +21,7 @@ height: 430px;
     background-color: white;
     color: black;
     transform: scale(1.001);
-    margin-top: -10px;
+   
     transition: .15s ease-in;
     cursor: pointer;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
