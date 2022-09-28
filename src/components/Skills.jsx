@@ -1,6 +1,5 @@
 import React from "react";
 import { SkillsDiv } from "../css/Skills.styled";
-import { FaReact } from "react-icons/fa";
 import { Fade } from "react-awesome-reveal";
 import {
   SiJavascript,
@@ -21,14 +20,12 @@ import {
   SiHtml5,
   SiNetlify,
   SiHeroku,
-  SiJson,
-  SiSocketdotio,
-  SiJsonwebtokens,
+
   SiNpm,
   SiVercel,
-  SiRedis,
+
 } from "react-icons/si";
-import JWT from "../assets/skillsIcon/css3.svg";
+
 
 import { VscJson } from "react-icons/vsc";
 
