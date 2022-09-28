@@ -60,6 +60,35 @@ let projectData = [
     techStack: "HTML5 | CSS3 | React Js | Redux | Redux | Styled-Components | Javascript | Material Ui",
     blog: "https://gautamgohil.hashnode.dev/functional-clone-of-geekbuying-e-commerce-website",
   },
+  {
+    id: 5,
+    heroImage:
+      "https://camo.githubusercontent.com/2e7d95b990d879025a1038c3e10b863c3930cdd3d99d4ddf0cbb8d760e846b99/68747470733a2f2f692e706f7374696d672e63632f5a59644c443473592f686f6d65706167652e706e67",
+    title: "Toggl-Track clone",
+    desc: "Toggl Track is a time tracking website.",
+    resposibility:"𝐀𝐫𝐞𝐚𝐬 𝐨𝐟 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐛𝐢𝐥𝐢𝐭𝐲: • Built landing and footer • fetched data from using axios • Built backend server",
+   
+    team: "Group Project",
+    git: "https://github.com/Kgaurav113/toggl-track-clone",
+    deployed: "https://toggletrack.vercel.app/",
+    techStack: "HTML5 | CSS3 | React Js | nodejs | express | Mongodb | Javascript | Chakra Ui",
+   
+  },
+  {
+    id: 5,
+    heroImage:
+      "https://i.postimg.cc/pXg3vkqD/youtube.png",
+    title: "youtube clone",
+    desc: "youtube is  online video sharing and social media platform.",
+    resposibility:"𝐀𝐫𝐞𝐚𝐬 𝐨𝐟 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐛𝐢𝐥𝐢𝐭𝐲: • Built landing ",
+   
+    team: "individual mini Project",
+    git: "https://github.com/Kgaurav113/youtube",
+    deployed: "https://youtubegaurav.netlify.app/",
+    techStack: "HTML5 | CSS3  | Javascript |",
+   
+  },
+
 ];
 
 const Projects = () => {
