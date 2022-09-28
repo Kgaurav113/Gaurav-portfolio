@@ -48,7 +48,7 @@ const Skills = () => {
                     <span>
                       <SiReact fill="#53c1de" />
                     </span>
-                    <p>React.Js </p> 75%
+                    <p>React.Js </p> 
                   </li>
 
                   <li>
