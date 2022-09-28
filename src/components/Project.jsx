@@ -43,7 +43,7 @@ let projectData = [
     team: "A collaborative project, built in 6 days by a team of 5 members.",
     git: "https://github.com/Kgaurav113/meesho-clone-react",
     deployed: "https://meesho-by-nitrogen.netlify.app/",
-    techStack: "HTML5 | CSS3 | Javascript | React Js | Redux | Redux | Styled-Components | Javascript",
+    techStack: "HTML5 | CSS3 | Javascript | React Js | Redux  | Styled-Components |",
     blog: "",
   },
   {
