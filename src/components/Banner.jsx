@@ -76,7 +76,7 @@ const Banner = () => {
 
         {/* <div className="imageContainer">
           <img
-            src={window.screen.width < 940 ? Avatar2 : Avatar}
+            src={window.screen.width < 940 ? Avatar : Avatar}
             alt=""
             className="avatar"
           />
@@ -84,12 +84,12 @@ const Banner = () => {
         <div class="box">
           <div class="content">
             <img src={Avatar} alt="" />
-            <h2>
+            {/* <h2>
               {" "}
               KUMAR GAURAV
               <br />
               <span>Web developer</span>
-            </h2>
+            </h2> */}
           </div>
         </div>
       </div>

@@ -209,7 +209,8 @@ const BannerCon = styled.div`
       justify-content: center;
 
       .avatar {
-        height: 90%;
+        height: 60%;
+        marginBottom:"20%"
       }
     }
   }
