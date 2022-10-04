@@ -35,7 +35,7 @@ const Banner = () => {
             <div className="typeButtons">
               <button className="learn-more">
                 <a
-                  href= "gauravresume.pdf"
+                  href= "https://drive.google.com/file/d/1r74TjGYRku5Dg5wjVTpifPselpa5hNZw/view?usp=sharing"
                    download
                   target={"_blank"}
                   rel="noreferrer"
