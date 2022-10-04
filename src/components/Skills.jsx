@@ -28,6 +28,7 @@ import {
 
 
 import { VscJson } from "react-icons/vsc";
+import Github from "./Github";
 
 const Skills = () => {
   return (
@@ -198,6 +199,7 @@ const Skills = () => {
           </div>
         </div>
       </div>
+      <Github/>
     </SkillsDiv>
   );
 };
